@@ -1,0 +1,10 @@
+body{
+	background-color: gray;
+}
+.syntax{
+	color:black;
+}
+textarea{
+	width:500px;
+	height:100;
+}
